@@ -1,1 +1,5 @@
 rootProject.name = 'multi-module'
+
+include 'common'
+include 'firewoody:domain'
+include 'firewoody:api'
